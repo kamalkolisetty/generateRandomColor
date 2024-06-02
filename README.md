@@ -98,3 +98,4 @@ To run the code:
 This collection of JavaScript snippets serves as a hands-on practice to understand and apply various JavaScript concepts. Feel free to explore, modify, and extend the examples to enhance your learning experience.
 
 ## Demonstration
+![](/1.jpg)
